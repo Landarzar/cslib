@@ -1,3 +1,4 @@
+import CslibTests.AnswerSetProgramming
 import CslibTests.BTL
 import CslibTests.Bisimulation
 import CslibTests.BooleanCircuits
@@ -19,6 +20,7 @@ import CslibTests.HML
 import CslibTests.HasFresh
 import CslibTests.HasSubstitution
 import CslibTests.HasWellFormed
+import CslibTests.HereAndThere
 import CslibTests.ImportWithMathlib
 import CslibTests.InferenceSystem
 import CslibTests.LTS

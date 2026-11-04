@@ -226,6 +226,9 @@ public import Cslib.Foundations.Syntax.HasAlphaEquiv
 public import Cslib.Foundations.Syntax.HasSubstitution
 public import Cslib.Foundations.Syntax.HasWellFormed
 public import Cslib.Init
+public import Cslib.Languages.AnswerSetProgramming.Basic
+public import Cslib.Languages.AnswerSetProgramming.Equilibrium
+public import Cslib.Languages.AnswerSetProgramming.StableModel
 public import Cslib.Languages.CCS.Basic
 public import Cslib.Languages.CCS.BehaviouralTheory
 public import Cslib.Languages.CCS.Semantics
@@ -273,6 +276,8 @@ public import Cslib.Languages.StatefulProcesses.Basic
 public import Cslib.Languages.StatefulProcesses.Network
 public import Cslib.Logics.BTL.Basic
 public import Cslib.Logics.HML.Basic
+public import Cslib.Logics.HereAndThere.Basic
+public import Cslib.Logics.HereAndThere.Equilibrium
 public import Cslib.Logics.LinearLogic.CLL.Basic
 public import Cslib.Logics.LinearLogic.CLL.CutElimination
 public import Cslib.Logics.LinearLogic.CLL.EtaExpansion
