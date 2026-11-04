@@ -25,6 +25,9 @@ public import Cslib.Computability.Automata.DA.Buchi
 public import Cslib.Computability.Automata.DA.Congr
 public import Cslib.Computability.Automata.DA.Prod
 public import Cslib.Computability.Automata.DA.ToNA
+public import Cslib.Computability.Automata.Effective.Basic
+public import Cslib.Computability.Automata.Effective.Buchi
+public import Cslib.Computability.Automata.Effective.Complement
 public import Cslib.Computability.Automata.EpsilonNA.Basic
 public import Cslib.Computability.Automata.EpsilonNA.OfRegularExpression
 public import Cslib.Computability.Automata.EpsilonNA.ThompsonConstruction
@@ -278,6 +281,13 @@ public import Cslib.Logics.LinearLogic.CLL.CutElimination
 public import Cslib.Logics.LinearLogic.CLL.EtaExpansion
 public import Cslib.Logics.LinearLogic.CLL.MLL
 public import Cslib.Logics.LinearLogic.CLL.PhaseSemantics.Basic
+public import Cslib.Logics.MSO.Atoms
+public import Cslib.Logics.MSO.Basic
+public import Cslib.Logics.MSO.Buchi
+public import Cslib.Logics.MSO.BuchiElgotTrakhtenbrot
+public import Cslib.Logics.MSO.Expansion
+public import Cslib.Logics.MSO.MSO0
+public import Cslib.Logics.MSO.OfAutomaton
 public import Cslib.Logics.Modal.Basic
 public import Cslib.Logics.Modal.Denotation
 public import Cslib.Logics.Modal.Lean.Basic
